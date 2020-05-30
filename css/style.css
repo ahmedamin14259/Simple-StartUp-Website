@@ -1,0 +1,134 @@
+/* Start Upperbar */
+.upper-nav-row {
+	margin-top: -15px;
+}
+.upper-nav .upper-nav-text {
+	font-size: 1rem;
+	color: white;
+}
+.upper-nav {
+	background-color: #031969 !important;
+	cursor: pointer;
+}
+.upper-nav:hover {
+	color: white;
+	background-color: #23293d !important;
+}
+/* End Upperbar */
+/* Start NavBar */
+.nav-navbar a span {
+	font-weight: 700;
+}
+/* End NavBar */
+/* Start Slider */
+.slider .carousel-inner .carousel-item {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.slider .carousel-inner .carousel-one {
+	background-image: url('../images/slider1.jpg');
+}
+.slider .carousel-inner .carousel-two {
+	background-image: url('../images/slider2.jpg');
+}
+.slider .carousel-inner .carousel-three {
+	background-image: url('../images/slider3.jpg');
+}
+/* End Slider */
+/* Start Cards */
+.cards .container .upper-cards-text h1{
+	margin-top: 34px;
+}
+.cards .container .upper-cards-text p {
+	width: 88%;
+}
+/* End Cards */
+/* Start why-us */
+.Why-us {
+	background-color: #08526d;
+	color: #fff;
+}
+.Why-us img {
+	max-width: 100%;
+}
+.Why-us .col-6 {
+	padding: 0;
+}
+.Why-us .main-text h2 {
+	padding-top: 40px;
+	margin: 30px;
+}
+.Why-us .main-text p {
+	margin: 30px;
+	line-height: 2;
+}
+.Why-us .read-more {
+	display: inline-block;
+	padding: 8px 20px;
+	margin: 0 0 0 30px;
+	background-color: #ed1d24;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom: 9px;
+	transition: 0.7s;
+}
+.Why-us .read-more:hover {
+	text-decoration: none;
+	color: #ed1d24;
+	background-color: white;	
+}
+/* End why-us */
+/* Start Statistics */
+.statistics {
+	padding: 100px 0;
+	color: #08526d;
+}
+.statistics .number {
+	display: block;
+	font-size: 40px;
+	font-weight: bold;
+}
+.statistics p {
+	color: #ed1d24;
+	font-size: 20px
+}
+/* End Statistics */
+/* Start Contact */
+.contact-us {
+	padding: 30px 0;
+	background-color: #ed1d24;
+	color: #fff;
+	font-size: 20px;
+}
+.contact-us p {
+	margin: 0;
+}
+.contact-us a {
+	color: #fff;
+	border: 2px solid #fff;
+	padding: 6px 15px 8px;
+	text-transform: uppercase;
+	font-weight: bold;
+	transition: 0.8s;
+}
+.contact-us a:hover {
+	text-decoration: none;
+	color: #ed1d24;
+	background-color: white;	
+}
+/* End Contact */
+/* Start Footer */
+hr {
+	height: 2px;
+	background-color: #ccc;
+	border:none;
+}
+.footer h2 {
+	font-size: 15px;
+	
+}
+/* End Footer */
